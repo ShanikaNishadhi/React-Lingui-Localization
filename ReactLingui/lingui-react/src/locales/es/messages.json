@@ -1,0 +1,9 @@
+{
+  "Welcome to the tutorial": "Bienvenida al tutorial",
+  "book is \"Shelock Holmes\"": " libro es 'Shelock Holmes'",
+  "bought the book": " compré el libro",
+  "{0}": "",
+  "{booksCount, plural, =1 {There's one book} other {There're # books}}": "{booksCount, plural, =1 {Hay un libro} other {Hay # libros}}",
+  "{count, selectordinal, one {1st} two {2nd} few {3rd} other {next}}": "{count, selectordinal, one {Primero} two {2do} few {Tercero} other {Siguiente}}",
+  "{gender, select, male {he} female {she} other {they}}": "{gender, select, male {él} female {ella} other {ellas}}"
+}

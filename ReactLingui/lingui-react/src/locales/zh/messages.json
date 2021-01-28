@@ -1,0 +1,9 @@
+{
+  "Welcome to the tutorial": "欢迎使用本教程",
+  "book is \"Shelock Holmes\"": " 这本书是《夏洛克·福尔摩斯》",
+  "bought the book": " 买了书",
+  "{0}": "",
+  "{booksCount, plural, =1 {There's one book} other {There're # books}}": "{booksCount, plural, =1 {一本书} other {有＃本书}}",
+  "{count, selectordinal, one {1st} two {2nd} few {3rd} other {next}}": "{count, selectordinal, one {第一} two {第二名} few {第三名} other {下一个}}",
+  "{gender, select, male {he} female {she} other {they}}": "{gender, select, male {他} female {她} other {他们}}"
+}
